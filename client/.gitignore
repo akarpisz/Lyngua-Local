@@ -14,7 +14,7 @@
 
 
 # misc
-src/setupProxy.js
+
 .DS_Store
 .env.local
 .env.development.local
